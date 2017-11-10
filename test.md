@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lorem ipsum sit amet
 ---
 # Lorem ipsum sit amet
