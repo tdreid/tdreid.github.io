@@ -1,5 +1,6 @@
 ---
 title: Lorem ipsum sit amet
+layout: default
 ---
 # Lorem ipsum sit amet
 
