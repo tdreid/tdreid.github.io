@@ -1,3 +1,6 @@
+---
+title: Resume
+---
 # Capabilities
 - **Creative.** Get it done using Node, Lodash, Photoshop, .Net, and a multitude of other languages, tools and frameworks: Firebase, Express, jQuery, WordPress, Magento etc.
 - **Adaptable.** Incorporate open source, proprietary, and custom solutions to create an arsenal of productivity on any mission.
