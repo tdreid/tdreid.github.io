@@ -13,12 +13,12 @@ HTML, CSS, Node, Express, jQuery, Adobe Photoshop & Creative Suite, Git, PHP, LA
 MS Excel, MS Office, Google Apps, VBA, IIS, SQL, SSIS, MySql, Amazon Web Services, Linux, Unix,
 Windows, WordPress, Firebase, Web API, XML, DNS, JSON, Bootstrap, Encase Forensics
 # More than 11 years of software development experience
-- Full Stack Developer - OPIE Software                                | 1 year
-- Web Developer - Eagle Manufacturing Group                           | 1 year
-- Sr. Software Developer - United BioSource Corporation               | 3 years
-- Web Developer - National Endowment for Democracy                    | 1 year
-- Software Developer - Northrop Grumman & Preferred Systems Solutions | 1 year
-- Sr. Developer - Johns Hopkins University & Medicine                 | 4 years
+Full Stack Developer - OPIE Software                                | 1 year
+Web Developer - Eagle Manufacturing Group                           | 1 year
+Sr. Software Developer - United BioSource Corporation               | 3 years
+Web Developer - National Endowment for Democracy                    | 1 year
+Software Developer - Northrop Grumman & Preferred Systems Solutions | 1 year
+Sr. Developer - Johns Hopkins University & Medicine                 | 4 years
 # Education
 - Master of Business Administration
   * *American Military University* | 2011
