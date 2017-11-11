@@ -8,12 +8,11 @@ title: Resume
 - **Resilient.** Handled life critical applications in a healthcare environment. Clearance eligible U.S. Citizen. Physically fit. Mentally tough. Avid outdoorsman.
 - **Flexible.** Available for deployment nationwide (U.S.) without fuss or cost to employer. Available to work onsite or remotely. Solar powered mobile fortress included.
 - **Polymath.** Domain knowledge ranging from healthcare and intellectual property law to finance and agriculture. 
-# Specialities
+# Expertise
 HTML, CSS, Node, Express, jQuery, Adobe Photoshop & Creative Suite, Git, PHP, LAMP, .NET, C#,
 MS Excel, MS Office, Google Apps, VBA, IIS, SQL, SSIS, MySql, Amazon Web Services, Linux, Unix,
 Windows, WordPress, Firebase, Web API, XML, DNS, JSON, Bootstrap, Encase Forensics
 # More than 11 years of software development experience
-
 - Full Stack Developer - OPIE Software --                                 _1 year_
 - Web Developer - Eagle Manufacturing Group --                            _1 year_
 - Sr. Software Developer - United BioSource Corporation --                _3 years_
