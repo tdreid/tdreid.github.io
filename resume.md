@@ -9,6 +9,7 @@ title: Resume
 - **Flexible.** Available for deployment nationwide (U.S.) without fuss or cost to employer. Available to work onsite or remotely. Solar powered mobile fortress included.
 - **Polymath.** Domain knowledge ranging from healthcare and intellectual property law to finance and agriculture. 
 
+
 # Expertise
 HTML, CSS, Node, Express, jQuery, Adobe Photoshop & Creative Suite, Git, PHP, LAMP, .NET, C#,
 MS Excel, MS Office, Google Apps, VBA, IIS, SQL, SSIS, MySql, Amazon Web Services, Linux, Unix,
