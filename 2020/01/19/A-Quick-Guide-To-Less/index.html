@@ -5,15 +5,15 @@
   
   <title>A Quick Guide To Less — By Example | Can code. Will travel.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="VariablesDefine values once. Reuse and manipulate repeatedly. 12345678910111213@blue: #002868;@red: #BF0A30;@gold: #FED700;@orange: #CE5C17;&#x2F;&#x2F; This also works:@alsoGold: gold;&#x2F;&#x2F; $prop treats property">
+  <meta name="description" content="VariablesDefine values once. Re-use and manipulate repeatedly. 12345678910111213@blue: #002868;@red: #BF0A30;@gold: #FED700;@orange: #CE5C17;&#x2F;&#x2F; This also works:@alsoGold: gold;&#x2F;&#x2F; $prop treats property">
 <meta property="og:type" content="article">
 <meta property="og:title" content="A Quick Guide To Less — By Example">
 <meta property="og:url" content="2020/01/19/A-Quick-Guide-To-Less/index.html">
 <meta property="og:site_name" content="Can code. Will travel.">
-<meta property="og:description" content="VariablesDefine values once. Reuse and manipulate repeatedly. 12345678910111213@blue: #002868;@red: #BF0A30;@gold: #FED700;@orange: #CE5C17;&#x2F;&#x2F; This also works:@alsoGold: gold;&#x2F;&#x2F; $prop treats property">
+<meta property="og:description" content="VariablesDefine values once. Re-use and manipulate repeatedly. 12345678910111213@blue: #002868;@red: #BF0A30;@gold: #FED700;@orange: #CE5C17;&#x2F;&#x2F; This also works:@alsoGold: gold;&#x2F;&#x2F; $prop treats property">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-01-19T15:51:04.000Z">
-<meta property="article:modified_time" content="2020-02-09T14:33:37.151Z">
+<meta property="article:modified_time" content="2020-02-09T14:46:54.210Z">
 <meta property="article:author" content="Trevor Reid">
 <meta property="article:tag" content="dev, css, ui, front end, cheat sheet">
 <meta name="twitter:card" content="summary">
@@ -76,7 +76,7 @@
 </ul>
   <div class="post-content">
       
-      <h1 id="Variables"><a href="#Variables" target="_blank" rel="noopener" class="headerlink" title="Variables"></a><a href="http://lesscss.org/features/#variables-feature" target="_blank" rel="noopener">Variables</a></h1><p>Define values once. Reuse and manipulate repeatedly.</p>
+      <h1 id="Variables"><a href="#Variables" target="_blank" rel="noopener" class="headerlink" title="Variables"></a><a href="http://lesscss.org/features/#variables-feature" target="_blank" rel="noopener">Variables</a></h1><p>Define values once. Re-use and manipulate repeatedly.</p>
 <figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">@blue:</span> <span class="number">#002868</span>;</span><br><span class="line"><span class="variable">@red:</span> <span class="number">#BF0A30</span>;</span><br><span class="line"><span class="variable">@gold:</span> <span class="number">#FED700</span>;</span><br><span class="line"><span class="variable">@orange:</span> <span class="number">#CE5C17</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// This also works:</span></span><br><span class="line"><span class="variable">@alsoGold:</span> gold;</span><br><span class="line"></span><br><span class="line"><span class="comment">// $prop treats property of the rule as a variable. E.g:</span></span><br><span class="line"><span class="selector-class">.someClass</span> &#123;</span><br><span class="line">    <span class="attribute">background-color</span>: <span class="variable">@blue</span>;</span><br><span class="line">    <span class="attribute">color</span>: tint($background-color, <span class="number">45%</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <h2 id="Interpolation"><a href="#Interpolation" target="_blank" rel="noopener" class="headerlink" title="Interpolation"></a>Interpolation</h2><p>Use variables in selector names, property names, URLs and <code>@import</code> statements.</p>
